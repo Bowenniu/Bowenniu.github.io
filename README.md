@@ -1,7 +1,7 @@
 # Computer Science Student
-<div style="text-align: center;">
-  <img src="assets/Self_Photo.jpg" alt="My Photo" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
+<p align="center">
+  <img src="assets/my_photo.jpg" alt="My Photo" style="border-radius: 50%; width: 150px; height: 150px;">
+</p>
 
 ### Education
 Communication, BA & Computer Science, MA (In Progress)
