@@ -1,5 +1,6 @@
 # Computer Science Student
-！[My Photo]
+！[Self Photo](assets/Self_Photo.jpg)
+
 ### Education
 Communication, BA & Computer Science, MA (In Progress)
 
