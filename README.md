@@ -1,7 +1,7 @@
 # Computer Science Student
 
 ### Education
-Communication, BA
+Communication, BA\n
 Computer Science, MA (In Progress)
 
 ### Work Experience
