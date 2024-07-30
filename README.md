@@ -1,5 +1,5 @@
 # Computer Science Student
-
+！[My Photo]
 ### Education
 Communication, BA & Computer Science, MA (In Progress)
 
