@@ -4,7 +4,7 @@ description: I am pursing MS degree in Computer Science at Northeastern Universi
 show_downloads: true
 theme: jekyll-theme-minimal
 
-social links:
-  Resume: /assets/Resume.pdf
-  Linkedin: "https://www.linkedin.com/in/bowen-niu-347152162/"
-  GitHub: "https://github.com/Bowenniu"
+social_links:
+  resume: /assets/Resume.pdf
+  linkedin: "https://www.linkedin.com/in/bowen-niu-347152162/"
+  gitHub: "https://github.com/Bowenniu"
