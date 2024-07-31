@@ -15,7 +15,6 @@ Sales Representative @Hican International Consulting Ltd.
   ![Calculate Nodes](assets/Question1.jpg)
   [Link to GitHub Repository](https://github.com/Bowenniu/Calculate-Nodes)
   This project calculates the number of nodes and leaf nodes in a binary tree.
-  
 ### Social Media
 
 As a Communication BA graduate, I love to create content and videos. In recent years, I've traveled a lot and recorded my trips through vlogs. 
