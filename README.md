@@ -7,7 +7,8 @@ Communication, BA & Computer Science, MA (In Progress)
 Sales Representative @Hican International Consulting Ltd.
 
 ### Projects 
-  - Program to check if a binary tree is a BST (https://github.com/Bowenniu/BST.git)
-  ![Result Screen Shot]()
-  - Program to calculate the number of nodes and leaf nodes in a binary tree (https://github.com/Bowenniu/Calculate-Nodes)
-  - 
+- **Program to check if a binary tree is a BST**
+  ![BST Program Screenshot](assets/Question2.jpg)
+- **Program to calculate the number of nodes and leaf nodes in a binary tree**
+  ![Calculate Nodes](assets/Question1.jpg)
+
